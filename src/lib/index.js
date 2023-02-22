@@ -1,3 +1,3 @@
 
-import Button from '../lib/component/Button';
+import Button from './component/Button';
 export { Button };
