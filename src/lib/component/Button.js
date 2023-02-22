@@ -1,10 +1,10 @@
 import React from 'react';
-import './styles/index.css';
+import './button.css'
 
 const Button = (props) => {
   return (
     <button
-      className={"blue"}
+      className={props.btnColor}
       type={props.type}
       name={props.name}
       value={props.value}

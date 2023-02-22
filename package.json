@@ -1,5 +1,5 @@
 {
-  "name": "button-react-ph",
+  "name": "button-react-shahriarp",
   "description": "one test React components",
   "author": "shahriar",
   "keywords": [
@@ -7,7 +7,7 @@
     "components",
     "ui"
   ],
-  "version": "0.14.0",
+  "version": "0.15.0",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",

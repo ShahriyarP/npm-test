@@ -1,0 +1,43 @@
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 120px;
+  min-height: 50px;
+  border-radius: 20px;
+  border-color: white;
+  outline: none;
+}
+button:hover {
+  filter: brightness(85%);
+}
+
+.purple {
+  color: white;
+  background-color: #9c27b0;
+}
+.yellow {
+  color: black;
+  background-color: #ffeb3b;
+}
+.deeporange {
+  color: white;
+  background-color: #ff5722;
+}
+.orange {
+  color: white;
+  background-color: #ff9800;
+}
+.green {
+  color: white;
+  background-color: #4caf50;
+}
+.cyan {
+  color: white;
+  background-color: #00bcd4;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
