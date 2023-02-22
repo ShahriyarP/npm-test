@@ -27,5 +27,5 @@ import { Button } from 'button-react-shahriarp'
 | disabled    | Boolean          
 | onClick     | function      
 
-In addition, you can use bgColor below 👇🏻👇🏻
+### In addition, you can use bgColor below 👇🏻👇🏻
 | 'purple' | 'yellow' | 'deeporange' | 'orange' | ' green' | ' cyan'  | ' black'   
