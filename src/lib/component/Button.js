@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './styles/index.css'
 const Button = (props) => {
   return (
     <button
-      className={props.color}
+      className='blue'
       type={props.type}
       name={props.name}
       value={props.value}
